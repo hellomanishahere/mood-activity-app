@@ -20,9 +20,8 @@ This project is built to demonstrate:
 ---
 
 ## 🌐 API Used
-
-* Bored API
-  https://www.boredapi.com/api/activity
+- GitHub REST API  
+  https://api.github.com/search/users?q=example
 
 ---
 
