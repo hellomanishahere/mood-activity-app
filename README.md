@@ -2,6 +2,8 @@
 
 ## 📌 Project Description
 
+🚀 A web app that suggests activities based on user mood to improve mental well-being.
+
 This web application helps users discover activities based on their current mood. It suggests simple and engaging activities that can improve mental well-being using a public API.
 
 ---
